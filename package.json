@@ -1,5 +1,5 @@
 {
-    "name": "drupal/admin_tasks_todo",
+    "name": "admin_tasks_todo",
     "description": "Provides a simple todo list functionality for Drupal administrators when configuring sites.",
     "type": "module",
     "devDependencies": {

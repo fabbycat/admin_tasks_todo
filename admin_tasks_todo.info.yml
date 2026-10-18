@@ -1,0 +1,16 @@
+name: 'Administrator Todo List'
+machine_name: 'admin_tasks_todo'
+description: 'A todo list that can be attached to content types and bundles, assisting with site configuration by providing reminders for tasks such as adding to fields.'
+# lifecycle:
+# lifecycle_link:
+# project status url:
+package: Site structure
+type: module
+core_version_requirement:  ^11 || ^12
+php: 8.3
+# dependencies:
+# test_dependencies:
+# configure:
+# configure_parameters:
+# hidden:
+# required:
